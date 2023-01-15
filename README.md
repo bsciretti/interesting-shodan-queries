@@ -20,7 +20,7 @@ var MSGR1
 ```
 ZTL = Trafic restricted zone, AP = Pedestrian Zone.
 
-Basically everyone now behind password.
+Basically every system now behind password.
 ### Australian Variable Road Signs
 ```
 Saferoads VMS
