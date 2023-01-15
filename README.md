@@ -33,6 +33,11 @@ BTW, not every device in the scope of the query's a variable sign. Try:
 Anteprima - Display
 ```
 For public previews (and some protected backend!)
+
+or...
+```
+Authentication on device failed : access denied.
+```
 ### Australian Variable Road Signs
 ```
 Saferoads VMS
