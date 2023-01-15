@@ -11,3 +11,14 @@ http.title:'Wind Turbine Control System'
 ```
 http.title:webterm
 ```
+
+### Italian crappy TRZ (ZTL)
+```
+<script> var IP1
+```
+Yes, they literally have a script
+
+### Australian Variable Road Signs
+```
+Saferoads VMS
+```
