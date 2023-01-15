@@ -15,8 +15,12 @@ http.title:webterm
 ### Italian crappy TRZ (ZTL)
 ```
 <script> var IP1=
+
+var MSGR1
 ```
-ZTL = Trafic restricted zone, AP = Pedestrian Zone
+ZTL = Trafic restricted zone, AP = Pedestrian Zone.
+
+Basically everyone now behind password.
 ### Australian Variable Road Signs
 ```
 Saferoads VMS
