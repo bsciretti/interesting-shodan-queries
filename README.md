@@ -48,3 +48,8 @@ Saferoads VMS
 http.favicon.hash:-1955025782
 ```
 Hardly any European today, but it was the alleged way some people gave Adolf Hitler a Green Certificate
+
+### Venetan gas station chain
+```
+org:"GRUPPO NORD PETROLI SRL"
+```
