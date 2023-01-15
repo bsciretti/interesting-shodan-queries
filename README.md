@@ -14,11 +14,16 @@ http.title:webterm
 
 ### Italian crappy TRZ (ZTL)
 ```
-<script> var IP1
+<script> var IP1=
 ```
-Yes, they literally have a script
-
+ZTL = Trafic restricted zone, AP = Pedestrian Zone
 ### Australian Variable Road Signs
 ```
 Saferoads VMS
 ```
+
+### European Green Certificate Generations
+```
+http.favicon.hash:-1955025782
+```
+Hardly any European today, but it was the alleged way some people gave Adolf Hitler a Green Certificate
