@@ -12,7 +12,7 @@ http.title:'Wind Turbine Control System'
 http.title:webterm
 ```
 
-### Italian crappy TRZ (ZTL)
+### Italian crappy TRZ (ZTL) variable sign
 ```
 <script> var IP1=
 
@@ -23,7 +23,12 @@ ZTL = Trafic restricted zone, AP = Pedestrian Zone.
 Basically every system now behind password. Protected ones are identifiable by:
 
 ```
-Basic realm="Embedded-Device"
+Basic realm="Embedded-Device" country:IT
+```
+
+BTW, not every device in the scope of the query's a variable sign. Try:
+```
+Anteprima - Display
 ```
 ### Australian Variable Road Signs
 ```
