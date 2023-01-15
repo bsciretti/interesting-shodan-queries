@@ -15,7 +15,9 @@ http.title:webterm
 ### Italian crappy TRZ (ZTL) variable sign
 ```
 <script> var IP1=
-
+```
+or
+```
 var MSGR1
 ```
 ZTL = Trafic restricted zone, AP = Pedestrian Zone.
@@ -30,6 +32,7 @@ BTW, not every device in the scope of the query's a variable sign. Try:
 ```
 Anteprima - Display
 ```
+For public previews (and some protected backend!)
 ### Australian Variable Road Signs
 ```
 Saferoads VMS
