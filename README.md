@@ -53,3 +53,8 @@ Hardly any European today, but it was the alleged way some people gave Adolf Hit
 ```
 org:"GRUPPO NORD PETROLI SRL"
 ```
+
+### Italian Point of Sale
+```
+http.title:’cassa’ country:IT
+```
