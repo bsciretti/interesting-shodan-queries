@@ -58,8 +58,3 @@ org:"GRUPPO NORD PETROLI SRL"
 ```
 http.title:’cassa’ country:IT
 ```
-
-### Italian Coin Machines
-```
-http.title:’amtek’ country:IT
-```
