@@ -58,3 +58,8 @@ org:"GRUPPO NORD PETROLI SRL"
 ```
 http.title:’cassa’ country:IT
 ```
+
+### Italian fuel station stats
+```
+http.html:'veeder root' country:IT
+```
