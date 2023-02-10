@@ -22,25 +22,25 @@ http.title:webterm
 ```
 <script> var IP1=
 ```
-or
+o
 ```
 var MSGR1
 ```
 ZTL = Trafic restricted zone, AP = Pedestrian Zone.
 
-Basically every system now behind password. Protected ones are identifiable by:
+In pratica tutti protetti, oggi. Si possono identificare con:
 
 ```
 Basic realm="Embedded-Device" country:IT
 ```
 
-BTW, not every device in the scope of the query's a variable sign. Try:
+Non tutti però sono PMV. Prova anche:
 ```
 Anteprima - Display
 ```
-For public previews (and some protected backend!)
+Per anteprime pubbliche
 
-or...
+o...
 ```
 Authentication on device failed : access denied.
 ```
