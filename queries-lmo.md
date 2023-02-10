@@ -26,21 +26,18 @@ or
 ```
 var MSGR1
 ```
-ZTL = Trafic restricted zone, AP = Pedestrian Zone.
-
-Basically every system now behind password. Protected ones are identifiable by:
-
+Incoeu squasi tucc con la password. Quei protesgiud se troeuven con:
 ```
 Basic realm="Embedded-Device" country:IT
 ```
 
-BTW, not every device in the scope of the query's a variable sign. Try:
+Proeuva anca:
 ```
 Anteprima - Display
 ```
-For public previews (and some protected backend!)
+Per di anteprime publeghe
 
-or...
+o...
 ```
 Authentication on device failed : access denied.
 ```
