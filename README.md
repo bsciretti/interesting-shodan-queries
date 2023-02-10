@@ -7,6 +7,12 @@ Interesting Shodan queries found by me or by some friends...
 ```
 http.title:'Wind Turbine Control System'
 ```
+
+### Solar panel arrays by Carlo Gavazzi
+```
+http.favicon.hash:-636619181
+```
+
 ### Webterm Access Control
 ```
 http.title:webterm
